@@ -10,13 +10,26 @@
 <style>
 /* Стили пиши здесь :) */
 h1{
-    background-color: red;
-text-align: center ;  
+color: red;  
 }
+img{
+  display: block; 
+    margin:auto; 
+}
+p{
+  background-color: #EFBEEF;
+  font-family: 'SEGOE PRINT';
+  font-size: 20px;
+  margin: 20px;
 
+}
 </style>
 <body>
   <h1>Мир пончиков</h1> 
   <img src="/uploads/2023/02/donut.png"></img>
+  <p>По́нчик или пы́шка — круглое или кольцеобразное, жаренное во фритюре хлебобулочное изделие, с начинкой или без неё. Пончики с начинкой, преимущественно из овощей или фруктов.</p>
+  <ul>
+    <li>
+  </ul>
 </body>
 </html>
